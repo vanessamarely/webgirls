@@ -1,3 +1,2 @@
-# webgirls
+# Page 1
 
-Este repo esta hecho con el objetivo de dar a conocer diferentes talleres en varias tecnologias Web
