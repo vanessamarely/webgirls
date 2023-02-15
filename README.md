@@ -12,4 +12,4 @@ description: >-
 
 👋 A través de esta página se pretende dar un recurso que puedas usar en tu formación.
 
-Encontrarás el **Gitbook** en la siguiente URL:&#x20;
+Encontrarás el **Gitbook** en la siguiente URL: [https://webgirls.gitbook.io/webgirls/](https://webgirls.gitbook.io/webgirls/)
